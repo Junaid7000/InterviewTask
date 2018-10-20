@@ -9,6 +9,6 @@ My approch for this task<br>
 <b>Hidden layer1:</b> keras Dense layer with 300 nodes, Activation function = RELU <br>
 <b>Hidden layer2:</b> keras Dense layer with 300 nodes, Activation function = RELU <br>
 <b>Output layer:</b> Keras Dense layer with 99(no of classification) o/p nodes, activation function = SOFTMAX <br>
-<b>Optimizer:</b> Adams Optimizer
-<b>Loss Function:</b> SPARS-CATEGORICAL-CROSSENTROPY 
-<b>Metrics:</b> Accuracy metrix
+<b>Optimizer:</b> Adams Optimizer<br>
+<b>Loss Function:</b> SPARS-CATEGORICAL-CROSSENTROPY<br> 
+<b>Metrics:</b> Accuracy metrix<br>
