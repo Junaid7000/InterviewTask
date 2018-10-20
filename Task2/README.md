@@ -23,7 +23,10 @@ I have selected <b> faster_rcnn_inception_v2_pets </b> from tensorflows objec de
 <b>Training model:</b> I trained model for 5300 steps, were losssed where dropped to 0.0966
 	<br>
 	<br>
-Following folders are attached:
+Following folders are attached:<br>
+	1. Training checkpoints : folder conataining train.py sript, generate_tfrecord.py script <br>
+	2. TensorBord : All tensorbord graph <br>
+	3. Inference graph: pipeline config, inference graph, model config file <br>
 
 
 
