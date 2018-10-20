@@ -25,9 +25,9 @@ I have selected <b> faster_rcnn_inception_v2_pets </b> from tensorflows objec de
 	<br>
 Following folders are attached:<br>
 	1. Training checkpoints : folder conataining train.py sript, generate_tfrecord.py script <br>
-	2. TensorBord : All tensorbord graph <br>
+	2. TensorBord : All tensorbord graph for loss <br>
 	3. Inference graph: pipeline config, inference graph, model config file <br>
-
+	4. graph.png: tensorboard graph
 
 
 	
