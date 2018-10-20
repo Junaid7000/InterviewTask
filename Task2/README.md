@@ -20,7 +20,7 @@ I have selected <b> faster_rcnn_inception_v2_pets </b> from tensorflows objec de
 <b>step 3:</b> Coverting Existing database to Tensorflow records<br>
 	TensorFlow provides us with a sample script in the file 'using_your_own_dataset.md' which by doing slight modification can convert our dataset in TF records also the given dataset of images is pre-labeled, so labeling is not required<br>
 	next step is to create create a labelmap.pbtxt file which will save labels with a unique id <br>
-<b>Training model:</b> I trained model for 5300 steps, were losssed where dropped to 0.0966
+<b>Training model:</b> I trained model for 5300 steps, where losssed were dropped to 0.0966
 	<br>
 	<br>
 Following folders are attached:<br>
