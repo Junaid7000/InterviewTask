@@ -1,1 +1,1 @@
-this folder contain, tensorflow records, model configerations
+this folder contain, tensorflow records, model configerations & training code
