@@ -15,7 +15,8 @@ Tensorflows Object Detection Api:<br>
 <br>
 <b>step 2:</b>  Selecting a model: <br>
 <br>
-The default model in the notebook is the simplest (and fastest) pre-trained model offered by TensorFlow. You can see there are many other models available. mAP stands for mean average precision, which indicates how well the model performed on the COCO dataset. Generally models that take longer to compute perform better. However these models also have a number of subtle differences (such as performance on small objects)
+The default model in the notebook is the simplest (and fastest) pre-trained model offered by TensorFlow. You can see there are many other models available. mAP stands for mean average precision, which indicates how well the model performed on the COCO dataset. Generally models that take longer to compute perform better. However these models also have a number of subtle differences (such as performance on small objects)<br>
+I have selected <b> faster_rcnn_inception_v2_pets </b> for my object detection model
 	
 
 				
